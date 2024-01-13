@@ -1,7 +1,7 @@
 # !! TELEGRAM HYPER BOT !!
 ・You cannot run this bot by downloading it from Github. The full state of the bot is required!‼️
 
-・If you want to buy the bot, contact me on Telegram: https://t.me/adrianservices👍
+・If you want to buy the bot, contact me on Telegram: https://t.me/swiftservicesowner👍
 
 # !! FEATURES !!
 ✅Automatically sends the messages you specify in your group!🔥
@@ -12,4 +12,4 @@
 
 ✅50 message options!💪 (can be increased optionally)
 
-DM me from Telegram: https://t.me/adrianservices if you are interested.🤝
+DM me from Telegram: https://t.me/swiftservicesowner if you are interested.🤝
